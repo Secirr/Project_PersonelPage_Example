@@ -9,5 +9,5 @@
 
 #### Created by Kadir Özdemir
 
-<img src="https://i.hizliresim.com/l6h3nme.png"  width="200px" alt="personel web site" target="_blank" />
+<img src="https://i.hizliresim.com/l6h3nme.png"  width="200px" alt="personel web site" target="_blank" display="inline-block"/>
 <img src="https://i.hizliresim.com/4ew39d7.png"  width="200px" alt="personel web site" target="_blank" />
