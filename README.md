@@ -8,4 +8,4 @@ My personal website project
 
 - Created by Kadir Özdemir
 
-<img src="https://i.hizliresim.com/l6h3nme.png"  width="300px" alt="personel web site" target="_blank" />
+<img src="https://i.hizliresim.com/l6h3nme.png"  width="800px" alt="personel web site" target="_blank" />
