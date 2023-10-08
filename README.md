@@ -1,8 +1,11 @@
-# kadir-kisisel-site-ornek
+# personel-page-example
+
 kişisel web sitesi çalışmam
-site url: 
-# [kadirozdemir00.netlify.app ](https://kadirozdemir00.netlify.app/)
+My personal website project
+
+- [Siteye Gitmek için tıklayın](https://kadirozdemir00.netlify.app/)
+- [click to go to the site](https://kadirozdemir00.netlify.app/)
 
 - Created by Kadir Özdemir
 
-- <img src="https://i.hizliresim.com/l6h3nme.png" alt="GitHub badge" target="_blank" />
+### <img src="https://i.hizliresim.com/l6h3nme.png" alt="GitHub badge" target="_blank" />
