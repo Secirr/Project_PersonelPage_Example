@@ -5,4 +5,4 @@ site url:
 
 - Created by Kadir Özdemir
 
-- [alt text](https://jmp.sh/JqmLC9Dx)
+- <img src="ttps://i.hizliresim.com/l6h3nme.png" alt="GitHub badge" target="_blank" />
