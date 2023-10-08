@@ -9,4 +9,4 @@
 
 #### Created by Kadir Özdemir
 
-<img src="https://i.hizliresim.com/l6h3nme.png"  width="500px" alt="personel web site" target="_blank" />
+<img src="https://i.hizliresim.com/l6h3nme.png"  width="600px" alt="personel web site" target="_blank" />
