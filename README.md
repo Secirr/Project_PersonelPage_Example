@@ -2,8 +2,6 @@
 
 #### kişisel web sitesi çalışmam
 
-<br>
-
 #### My personal website project
 
 ### [Siteye Gitmek için tıklayın](https://kadirozdemir00.netlify.app/)
